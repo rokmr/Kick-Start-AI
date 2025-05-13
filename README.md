@@ -1,1 +1,6 @@
 # Kick-Start-AI
+|S.No. |Topic          |Code                                                                                                                                                                     |
+|------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|1.    | Python        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rokmr/Kick-Start-AI/blob/main/src/Python.ipynb)   |
+|2.    | Numpy         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rokmr/Kick-Start-AI/blob/main/src/Numpy.ipynb)    |
+|3.    | PyTorch       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rokmr/Kick-Start-AI/blob/main/src/PyTorch.ipynb)  |
